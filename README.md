@@ -17,7 +17,7 @@
 
 [http://nbh-digital.com](http://nbh-digital.com)
 
-Staging: [www2.nbh-digital.com](http://www2.nbh-digital.com)
+Staging: [http://www2.nbh-digital.com/](http://www2.nbh-digital.com/)
 
 ### Wiki:
 
